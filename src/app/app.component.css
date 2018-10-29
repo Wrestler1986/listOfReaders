@@ -1,0 +1,10 @@
+.container {
+  margin-left: 40px;
+}
+ul {
+  display: inline-block;
+  list-style-type: none;
+}
+button {
+  padding: 14px 7px;
+}
